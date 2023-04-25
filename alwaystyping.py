@@ -1,7 +1,7 @@
 import pyautogui
 import time
-# wait 5 seconds
-time.sleep(5)
+# wait 10 seconds
+time.sleep(10)
 # type 2
 pyautogui.typewrite('2')
 # loop start
